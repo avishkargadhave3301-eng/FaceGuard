@@ -1,0 +1,7 @@
+{
+  "name": "Face Recognition Guard",
+  "description": "Real-time face detection and recognition using face-api.js. Detects authorized and unknown persons with an alarm system.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
